@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "newXMLDocument.xsl"|?>
+
+ <online_auction>
+    <item1>
+    <name> harry potter series</name>
+    <price>200rs</price>
+    </item1>
+    <item>
+    <name> a time for mercy</name>
+    <price>300rs</price>
+    </item>
+    <item>
+    <name>the return</name>
+    <price>500rs</price>
+    </item>
+    <choose_option>
+    1,2,3
+</choose_option>
+
+</online_auction>
+
